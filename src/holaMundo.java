@@ -3,6 +3,8 @@ public class holaMundo {
         //Esto imprimirá Hello World
         System.out.println("Hola o Hello");
 
+        // comentario
+
         String iLove = new String ("I Love Programing");
         String everyDay = new String ("Every Day");
         String output = iLove +" "+ everyDay;
